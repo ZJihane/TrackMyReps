@@ -6,10 +6,6 @@ TrackMyReps is a user-friendly application designed to help fitness enthusiasts 
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -24,7 +20,4 @@ TrackMyReps is a user-friendly application designed to help fitness enthusiasts 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 
-## Installation
 
-1. Clone the repository:
-  [ git clone https://github.com/yourusername/trackmyreps.git](https://github.com/ZJihane/TrackMyReps.git)
