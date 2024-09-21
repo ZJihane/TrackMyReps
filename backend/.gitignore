@@ -1,0 +1,19 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore environment variable file
+.env
+
+# Ignore log files
+logs/
+*.log
+npm-debug.log*
+
+# Ignore coverage reports
+coverage/
+
+# Ignore local test files
+*.tgz
+
+# Ignore temporary files
+*.tmp
